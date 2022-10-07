@@ -1,4 +1,4 @@
-# Java-Multithreading
+# Java Multithreading Servers
 
 This is a multithreaded server.
 
